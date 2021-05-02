@@ -12,9 +12,6 @@ import {
   Card,
   CardHeader,
   CardContent,
-  CardActions,
-  Chip,
-  LinearProgress,
   ListItem,
   ListItemText,
 } from '@material-ui/core';
